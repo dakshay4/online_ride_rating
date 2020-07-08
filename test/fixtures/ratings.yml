@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: 1
+  giver_id: 1
+  receiver_id: 1
+  ride: one
+  comments: MyString
+
+two:
+  value: 1
+  giver_id: 1
+  receiver_id: 1
+  ride: two
+  comments: MyString
